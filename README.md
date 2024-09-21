@@ -47,13 +47,7 @@ Passwords are stored in descending order of their creation date:
 ### Password File Format:
 The file will look like this:
 
-Example:
-  2px34sa19h.fS
-  lkA@!o90a$5p
-  m.M90a21gth*k
-  xCXtimPOT23!p
-  Abcd.1234.*S
-  9091@asdfOOP$
+Example:  2px34sa19h.fS  lkA@!o90a$5p  m.M90a21gth*k  xCXtimPOT23!p  Abcd.1234.*S  9091@asdfOOP$
 
 
 
