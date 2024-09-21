@@ -20,12 +20,11 @@ The `masterfile.txt` file stores the following information for registered users:
 ### Format Example:
 Each line in the `masterfile.txt` file follows this structure:
 
-Example:
-  ramesh.yadav 19-09-1985 rypass.txt
-  puja.bedi 23-08-1991 pbpass.txt
-  arun.kumar 01-11-1973 akpass.txt
-  anjali.sharma 30-01-1996 aspass.txt
-
+Example:  
+    ramesh.yadav 19-09-1985 rypass.txt  
+    puja.bedi 23-08-1991 pbpass.txt  
+    arun.kumar 01-11-1973 akpass.txt  
+    anjali.sharma 30-01-1996 aspass.txt  
 
 ---
 
