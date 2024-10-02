@@ -77,7 +77,7 @@ The program will validate whether the new password meets the following condition
 - The password must contain at least **one digit** (0-9).
 
 ### R5: Special Characters
-- The password must contain at least **one special character** from the set: {., @, !, #, $, %, ^, &, *, -, _}
+- The password must contain at least **one special character** from the set: `{., @, !, #, $, %, ^, &, *, -, _}`
 
 - Any other special characters will result in the password being rejected.
 
